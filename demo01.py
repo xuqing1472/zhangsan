@@ -49,3 +49,11 @@ a = input("请输入第一段内容:")
 b = input("请输入第二段内容:")
 print("长度等于",len(a+b))
 
+print(type("哈哈"))
+print(type(2333))
+print(type(2.333))
+print(type(True))
+print(type(()))
+print(type([]))
+print(type({}))
+
